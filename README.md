@@ -1,3 +1,12 @@
+I confidently recommend the following legal books to all readers interested in contracts, negotiation, and business. They will be especially helpful for budding contracts attorneys, as they have been to
+me.
+
+Some focus on areas of business, or even specific forms, very remote from my practice. But I found in each some kernel of universal utility or inspiration.
+
+K.E. Mitchell
+
+---
+
 - _The American Bar Association Legal Guide for Small Business_
 
   (General)
