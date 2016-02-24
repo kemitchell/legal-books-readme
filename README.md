@@ -64,6 +64,13 @@ K.E. Mitchell
   (Software; Copyright; Patent) Approachable introduction. Well written
   for technical readers.
 
+- H. Ward Classen's _A Practical Guide to Software Licensing for
+  Licensees and Licensors_
+
+  (Software; Copyright; Patent) Walkthrough of common software license
+  agreement components, especially for enterprise software deals.
+  Best-in-class forms disc.
+
 - Dermot Berkery's _Raising Venture Capital for the Serious
   Entrepreneur_
 
